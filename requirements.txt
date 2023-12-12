@@ -34,7 +34,7 @@ google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 grpcio==1.60.0
 h5py==3.10.0
-huggingface-hub
+huggingface-hub==0.19.4
 idna==3.6
 importlib-metadata==6.8.0
 importlib-resources==6.1.1
